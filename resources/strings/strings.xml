@@ -1,9 +1,9 @@
 <strings>
     <string id="AppName">WheelLog</string>
-    <string id="device">fenix3_hr</string>
+    <string id="device">fenix5xplus</string>
 
     <string id="prompt">Click the menu button</string>
 
     <string id="menu_label_1">Test Data</string>
-    <string id="menu_label_2">-----</string>
+    <string id="menu_label_2">Test 2b v06</string>
 </strings>
